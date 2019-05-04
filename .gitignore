@@ -1,0 +1,11 @@
+roledata.db
+app.properties
+target/*
+.settings/*
+.project
+.classpath
+data.db
+roledb.db
+properties
+temp/
+settings.txt
